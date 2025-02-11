@@ -38,16 +38,6 @@ Hi! I am Bingtong Han from School of Economics and Management, Tsinghua Universi
   ＊Wrote research reports based on the equity incentive data of state-owned holding listed companies and the interview materials of related enterprises  
   ＊Collected relevant information of the independent directors of state-owned holding listed companies, wrote research reports and made PPT  
 
----
-
-## 发表论文
-1. 论文1 (2023)  
-   *期刊名称*  
-   [PDF链接](你的PDF文件地址)
-
-2. 论文2 (2022)  
-   *会议名称*  
-   [PDF链接](你的PDF文件地址)
 
 ---
 
