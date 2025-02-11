@@ -150,14 +150,15 @@ Related courses:
 ## More about Myself
 - **I am a foodie.** Enjoying food is an indispensable part of my happiness. I can also cook but don't know how to make desserts.
 - **I like sports,** for example long-distance running, tennis, swimming, and a lot more. I taught myself to do strength training in the latter half of 2024.
-- **I am not that good at math.** Although I studied Science in high school, I am not that talented in Mathematics. However, if I choose to apply for Master or even PhD, math is strongly required to prove that I am intelligent. Overall, I prefer to coexist with math because I am worse at Arts (Philosophy, Politics, etc.), although I am interested in them (and they are also a must to understand Economics).
-- **Venture Capital (VC) is by far the favorite career I can think of in financial industry.** This is probably the most important reason that I joined SEM, although I didn't realize it until my freshman year. I am interested in looking into an industry and pick out the company that I think is the most promising. Unfortunately, the bar is very high for Venture Capital so hopefully I can participate in some VC internships in the future. However, one thing must be stated here is that people's mind can change.
+- **I am not that good at math but it is passable.** Although I studied Science in high school, I am not that talented in Mathematics. However, if I choose to apply for Master or even PhD, math is strongly required to prove that I am intelligent. Overall, I prefer to coexist with math because I am worse at Arts (Philosophy, Politics, etc.), although I am interested in them (and they are also a must to understand Economics).
+- **Venture Capital (VC) is by far the favorite career I can think of in financial industry.** This is probably the most important reason that I joined SEM, although I didn't realize it until my freshman year. I am interested in looking into an industry and picking out the company that I think is the most promising. Unfortunately, the bar is very high for Venture Capital so hopefully I can participate in some VC internships in the future. However, one thing must be stated here is that people's mind can change.
 
 
 ---
 
 ## News
 - Preparing for my exchange application (Update time: 2025.2)
+- Probably will study and conduct research under the supervision of Prof. Xiaojie Mao (Update time: 2025.2)
 
 
 ---
