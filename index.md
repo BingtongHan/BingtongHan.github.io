@@ -42,7 +42,7 @@ Related courses:
 ---
 
 ## Internship Experience
-- Boston Consulting Group, Part-Time Assistant, 2024.12-now
+- **Boston Consulting Group, Part-Time Assistant**, 2024.12-now
 
 
   * Responsible for compiling project meeting minutes, accurately capturing key information from meetings to ensure the project team has a consistent understanding and efficient execution of the audio product e-commerce market expansion strategy  
@@ -53,7 +53,7 @@ Related courses:
 ---
 
 ## Research Experience
-- Institute for State-owned Enterprises, Tsinghua University, Research Assistant, 2025.1-now　　
+- **Institute for State-owned Enterprises, Tsinghua University, Research Assistant**, 2025.1-now　　
 
   "Beijing Pilot State-owned Enterprise Policy Evaluation"
 
@@ -65,7 +65,7 @@ Related courses:
   * Organized interview results and processed and interpreted survey data to provide empirical support for policy evaluation
 
 
-- Institute for State-owned Enterprises, Tsinghua University, Research Assistant, 2024.7-2024.8　　
+- **Institute for State-owned Enterprises, Tsinghua University, Research Assistant**, 2024.7-2024.8　　
 
   "Equity Incentive for State-owned Enterprises" and "Giving Play to the Role of Independent Directors of State-owned Holding Listed Companies"
 
