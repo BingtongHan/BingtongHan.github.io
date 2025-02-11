@@ -158,7 +158,7 @@ Related courses:
 
 ## News
 - Preparing for my exchange application (Update time: 2025.2)
-- Probably will study and conduct research under the supervision of Prof. Xiaojie Mao (Update time: 2025.2)
+- Probably will study and conduct research under the supervision of *Prof. Xiaojie Mao* (Update time: 2025.2)
 
 
 ---
