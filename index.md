@@ -42,5 +42,5 @@ Hi! I am Bingtong Han from School of Economics and Management, Tsinghua Universi
 ---
 
 ## Contact
-- Email：hanbt23@mails.tsinghua.edu.cn
+- Email: hanbt23@mails.tsinghua.edu.cn
 - GitHub: [My GitHub](https://github.com/BingtongHan)
