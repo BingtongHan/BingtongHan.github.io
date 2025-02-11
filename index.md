@@ -19,7 +19,7 @@ Hi! I am **Bingtong Han** from School of Economics and Management, Tsinghua Univ
 </div>  
 
 
-More About me:  
+About me:  
 - Date of Birth: June 3rd, 2005
 - MBTI: INTJ (former ENTJ)
 - Field of Interest (might not be good at🤦‍♀️): Economics and Business (Finance, Accounting, Management, etc.), Chemistry, Biology, Statistics (just a beginner)
@@ -55,10 +55,8 @@ Related courses:
 ## Research Experience
 - **Institute for State-owned Enterprises, Tsinghua University, Research Assistant**, 2025.1-present　　
 
-  "Beijing Pilot State-owned Enterprise Policy Evaluation"
-
-
-  Prof. Chong-En Bai, Director Lisha Zhou
+  *"Beijing Pilot State-owned Enterprise Policy Evaluation"*  
+  *Prof. Chong-En Bai, Director Lisha Zhou*
 
 
   * Engaged in in-depth interviews with senior and management levels of enterprises, focusing on policy areas such as human resources and incentives, technological innovation, governance empowerment, and capital operations, to gather primary data and insights
@@ -67,10 +65,8 @@ Related courses:
 
 - **Institute for State-owned Enterprises, Tsinghua University, Research Assistant**, 2024.7-2024.8　　
 
-  "Equity Incentive for State-owned Enterprises" and "Giving Play to the Role of Independent Directors of State-owned Holding Listed Companies"
-
-
-  Prof. Chong-En Bai, Director Lisha Zhou
+  *"Equity Incentive for State-owned Enterprises" and "Giving Play to the Role of Independent Directors of State-owned Holding Listed Companies"*  
+  *Prof. Chong-En Bai, Director Lisha Zhou*
 
 
   * Collected and sorted out the state-owned enterprise equity incentive related literature, wrote the project literature review  
@@ -133,7 +129,7 @@ Related courses:
 ---
 
 ## Reports/Theses/Projects  
-(mostly informal🤔)  
+(mostly not that formal🤔)  
 
 ###  Reports
 - 华为公司估值分析报告
@@ -144,10 +140,25 @@ Related courses:
 - 零实施与数次实施——中印药品专利强制许可实施对比及原因（获清华大学“讲好科学的故事”科普大赛最佳深度奖）
 - Study on Ethics in Users’ Information and Data Collection of Social Media Enterprises
 - 雪糕真的是“刺客”吗？ (my Principles of Economics course thesis, just for fun🙂)
-- 
+
 ### Projects
 - 咪咕视频案例分析
 - 云南省兰坪县新生桥国有林场德胜营林区中金公益生态碳汇林项目
+
+---
+
+## More about Myself
+- **I am a foodie.** Enjoying food is an indispensable part of my happiness. I can also cook but don't know how to make desserts.
+- **I like sports,** for example long-distance running, tennis, swimming, and a lot more. I taught myself to do strength training in the latter half of 2024.
+- **I am not that good at math.** Although I studied Science in high school, I am not that talented in Mathematics. However, if I choose to apply for Master or even PhD, math is strongly required to prove that I am intelligent. Overall, I prefer to coexist with math because I am worse at Arts (Philosophy, Politics, etc.), although I am interested in them (and they are also a must to understand Economics).
+- **Venture Capital (VC) is by far the favorite career I can think of in financial industry.** This is probably the most important reason that I joined SEM, although I didn't realize it until my freshman year. I am interested in looking into an industry and pick out the company that I think is the most promising. Unfortunately, the bar is very high for Venture Capital so hopefully I can participate in some VC internships in the future. However, one thing must be stated here is that people's mind can change.
+
+
+---
+
+## News
+- Preparing for my exchange application (Update time: 2025.2)
+
 
 ---
 
