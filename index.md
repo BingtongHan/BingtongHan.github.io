@@ -29,7 +29,7 @@ More About me:
 ---
 
 ## Educational Background
-School of Economics and Management, Economics and Finance, Tsinghua University, 2023.9-now  
+**School of Economics and Management, Economics and Finance, Tsinghua University**, 2023.9-now  
 
 
 Related courses:
