@@ -31,7 +31,7 @@ Hi! I am Bingtong Han from School of Economics and Management, Tsinghua Universi
   "Equity Incentive for State-owned Enterprises" and "Giving Play to the Role of Independent Directors of State-owned Holding Listed Companies"
 
 
-  Instructor: Prof. Chong-En Bai
+  Prof. Chong-En Bai, Director Lisha Zhou
 
 
   * Collected and sorted out the state-owned enterprise equity incentive related literature, wrote the project literature review  
@@ -44,7 +44,7 @@ Hi! I am Bingtong Han from School of Economics and Management, Tsinghua Universi
   "Beijing Pilot State-owned Enterprise Policy Evaluation"
 
 
-  Instructor: Prof. Chong-En Bai
+  Prof. Chong-En Bai, Director Lisha Zhou
 
 
   * Engaged in in-depth interviews with senior and management levels of enterprises, focusing on policy areas such as human resources and incentives, technological innovation, governance empowerment, and capital operations, to gather primary data and insights
