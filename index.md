@@ -26,7 +26,7 @@ Hi! I am Bingtong Han from School of Economics and Management, Tsinghua Universi
 ---
 
 ## Research Experience
-- Institute for State-owned Enterprises, Tsinghua University 　　　　　　　　　　　　　　　　　　　　  　2024.7-2024.8　　
+- Institute for State-owned Enterprises, Tsinghua University 　　　　　　　　　　　　　　　　　　　　 　2024.7-2024.8　　
 
   "Equity Incentive for State-owned Enterprises" and "Giving Play to the Role of Independent Directors of State-owned Holding Listed Companies"
 
