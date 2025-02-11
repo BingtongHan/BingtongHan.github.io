@@ -145,7 +145,7 @@ Related courses:
 - 雪糕真的是“刺客”吗？ (my Principles of Economics course thesis, just for fun🙂)
 ### Projects
 - 咪咕视频案例分析
-- 云南省兰坪县新生桥国有林场德胜营林区中金公益生态碳汇林云南兰坪项目
+- 云南省兰坪县新生桥国有林场德胜营林区中金公益生态碳汇林项目
 
 ---
 
