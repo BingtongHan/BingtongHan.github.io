@@ -29,7 +29,7 @@ More About me:
 ---
 
 ## Educational Background
-**School of Economics and Management, Economics and Finance, Tsinghua University**, 2023.9-now  
+**School of Economics and Management (SEM), Economics and Finance, Tsinghua University**, 2023.9-present  
 
 
 Related courses:
@@ -42,7 +42,7 @@ Related courses:
 ---
 
 ## Internship Experience
-- **Boston Consulting Group, Part-Time Assistant**, 2024.12-now
+- **Boston Consulting Group, Part-Time Assistant**, 2024.12-present
 
 
   * Responsible for compiling project meeting minutes, accurately capturing key information from meetings to ensure the project team has a consistent understanding and efficient execution of the audio product e-commerce market expansion strategy  
@@ -53,7 +53,7 @@ Related courses:
 ---
 
 ## Research Experience
-- **Institute for State-owned Enterprises, Tsinghua University, Research Assistant**, 2025.1-now　　
+- **Institute for State-owned Enterprises, Tsinghua University, Research Assistant**, 2025.1-present　　
 
   "Beijing Pilot State-owned Enterprise Policy Evaluation"
 
@@ -84,6 +84,66 @@ Related courses:
 - Programming: Python, R, C
 - Microsoft (Excel, PowerPoint, etc.)
 - Language: Chinese Mandarin (Proficient), English (Advanced)
+
+---
+
+## Other Experiences
+
+### Social Work in Tsinghua
+- **School of Economics and Management, Student Union, Overseas Department**, 2023.3-present
+  * Responsible for editing the “Business English” column of the Tsinghua SEM Family WeChat official account, leading the team to produce multiple articles, providing practical English learning guidance for students  
+  * Holly Jolly Get-Together New Year’s event sharing guest and organizer  
+  * Participated in the buddy program for two semesters, helping exchange students adapt to life at Tsinghua  
+  * Organizer and host of the Speaking Buddy Program, strengthening communication between exchange students and domestic students  
+
+- **School of Economics and Management, Class 36, Study Committee Member**, 2024.9-present
+
+### Social Practice Activities
+- **Tsinghua University "RONG TONG WAN XI, ZHI HUI JINZHAI" social practice**, 2024.7  
+  *To Jinzhai County, Anhui province to conduct research on inclusive finance and digital transformation*  
+  * Talked with local government to understand local economic development and construction; investigated local commercial banks and policy banks to understand the current situation of inclusive finance; investigated local characteristic enterprises to learn about local economic development and digital transformation; interviewed local villagers to understand rural construction  
+  * Served as deputy team leader and research team leader, leading the research work of the detachment; undertook the responsibilities of investigation and interview, data sorting and report writing
+  * Was awarded the Silver Prize for Social Practice by School of Economics and Management  
+
+- **Tsinghua University "YI XING QIAN LI" social practice**, 2024.2  
+  *To Shangri-La and Lanping County in Yunnan province to conduct research on green finance and rural revitalization*  
+  * Investigated the construction and management of Shangri-La Alpine Botanical Garden; investigated forest farms to understand the construction and development status of forestry; interviewed local farmers to understand the rural revitalization situation
+  * Took on the responsibility of research and interview, report writing and project presentation materials preparation; completed the reports of five sub-projects and submitted them to CICC
+
+- **Tsinghua University "XING LUO CHANG AN" social practice**, 2024.1  
+  *To Xi'an and Luoyang for commercial aerospace related research*  
+  * Interviewed a total of 12 enterprises to investigate the status quo of incubation and technology transfer of science and technology enterprises, the situation and operation of different enterprises in the upstream and downstream industrial chain of commercial space industry, the different situations faced by state-owned enterprises and private enterprises, as well as their competition and cooperation  
+  * Took on the responsibility of commercial aerospace industry data, literature, as well as some enterprise data collection, the design of research problems, research data collation and research reports writing
+  * Was awarded the Gold Prize for Social Practice by Department of Mechanical Engineering  
+
+### Volunteer Activities
+- 20th Annual Conference of Association of Asia-Pacific Business Schools, volunteer  
+- TEDxTHU, translator  
+- 22nd “Your Voice, My World” event, volunteer  
+- Admissions Volunteer for Tsinghua University
+
+---
+
+## Awards
+- Social Practice Excellence Scholarship, 2024
+- Soh Bing Scholarship, 2024
+- Tsinghua University "Ma Yuehan Cup" Cheerleading Competition, 5th place
+- Excellent Individual in Social Practice, Department of Mechanical Engineering, 2024.3
+
+---
+
+## Reports/Theses/Projects (Mostly Informal🤔)
+### Reports
+- 华为公司估值分析报告
+- Financial Analysis of S.F. Holding Co., Ltd.
+- Financial Analysis of Chinese Electric Appliances Industry: Hisense, Skyworth, TCL
+### Theses
+- 零实施与数次实施——中印药品专利强制许可实施对比及原因（获清华大学“讲好科学的故事”科普大赛最佳深度奖）
+- Study on Ethics in Users’ Information and Data Collection of Social Media Enterprises
+- 雪糕真的是“刺客”吗？ (my Principle of Economics course thesis, just for fun🙂)
+### Projects
+- 咪咕视频案例分析
+- 云南省兰坪县新生桥国有林场德胜营林区中金公益生态碳汇林云南兰坪项目
 
 ---
 
