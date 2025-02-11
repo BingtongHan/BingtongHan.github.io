@@ -4,7 +4,7 @@ layout: home
 title: Bingtong Han
 ---
 
-# Bingtong Han （韩冰童）
+# Bingtong Han 韩冰童
 **Undergraduate | Tsinghua University**
 
 
@@ -23,7 +23,9 @@ More About me:
 - Date of Birth: June 3rd, 2005
 - MBTI: INTJ (former ENTJ)
 - Field of Interest (might not be good at🤦‍♀️): Economics and Business (Finance, Accounting, Management, etc.), Chemistry, Biology, Statistics (just a beginner)
-- A former science student in high school who entered the field of economics and finance by chance
+- A former Science student in high school who entered the field of Economics and Finance by chance  
+
+
 ---
 
 ## Educational Background
@@ -35,6 +37,8 @@ Related courses:
 - Math Related: Probability and Mathematical Statistics, Elementary Probability Theory, Statistical Inference (Audit), Calculus, Linear Algebra
 - Programming Related: Computer Language and Programming, Insight from Financial Industry
 - Some Other Interesting Courses I took (not all): Organic Chemistry, Physics, Laboratory of Modern Biology, Writing and Communication, Critical Thinking and Moral Reasoning, Research Writing Seminars
+
+
 ---
 
 ## Internship Experience
