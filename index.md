@@ -7,6 +7,9 @@ title: Bingtong Han
 # Bingtong Han （韩冰童）
 **Undergraduate | Tsinghua University**
 
+
+![My Photo](my-photo.jpg)
+
 ---
 
 ## Self-Introduction
