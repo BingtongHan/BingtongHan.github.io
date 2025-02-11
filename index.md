@@ -46,7 +46,7 @@ Related courses:
 
 
   * Responsible for compiling project meeting minutes, accurately capturing key information from meetings to ensure the project team has a consistent understanding and efficient execution of the audio product e-commerce market expansion strategy  
-  * Organized and analyzed supplier due diligence reports, providing the team with in-depth insights into the market position of the client, dynamics of competitors, and potential market opportunities  
+  * Organized and analyzed vendor due diligence reports, providing the team with in-depth insights into the market position of the client, dynamics of competitors, and potential market opportunities  
   * Participated in expert interviews and physical store visits, gathering opinions and suggestions from industry experts and front-line sales personnel on the promotion of audio products in the e-commerce market, analyzed potential growth points, and provided empirical support for project strategy formulation  
   * Assisted in the development of the e-commerce market expansion plan for audio products, driving the smooth progress of the project and helping the client achieve market objectives
 
