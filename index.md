@@ -127,12 +127,14 @@ Related courses:
 ## Awards
 - Social Practice Excellence Scholarship, 2024
 - Soh Bing Scholarship, 2024
-- Tsinghua University "Ma Yuehan Cup" Cheerleading Competition, 5th place
+- Tsinghua University "Ma Yuehan Cup" Cheerleading Competition, 5th place, 2024.4
 - Excellent Individual in Social Practice, Department of Mechanical Engineering, 2024.3
 
 ---
 
-## Reports/Theses/Projects (Mostly Informal🤔)
+## Reports/Theses/Projects  
+(mostly informal🤔)  
+
 ### Reports
 - 华为公司估值分析报告
 - Financial Analysis of S.F. Holding Co., Ltd.
@@ -140,7 +142,7 @@ Related courses:
 ### Theses
 - 零实施与数次实施——中印药品专利强制许可实施对比及原因（获清华大学“讲好科学的故事”科普大赛最佳深度奖）
 - Study on Ethics in Users’ Information and Data Collection of Social Media Enterprises
-- 雪糕真的是“刺客”吗？ (my Principle of Economics course thesis, just for fun🙂)
+- 雪糕真的是“刺客”吗？ (my Principles of Economics course thesis, just for fun🙂)
 ### Projects
 - 咪咕视频案例分析
 - 云南省兰坪县新生桥国有林场德胜营林区中金公益生态碳汇林云南兰坪项目
