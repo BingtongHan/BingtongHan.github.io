@@ -41,7 +41,7 @@ Hi! I am Bingtong Han from School of Economics and Management, Tsinghua Universi
 
 - Institute for State-owned Enterprises, Tsinghua University, Research Assistant 　　　　　　　　　　　　　　　　　　　　 　2025.1-now　　
 
-  "Beijing pilot state-owned enterprise policy evaluation"
+  "Beijing Pilot State-owned Enterprise Policy Evaluation"
 
 
   Instructor: Prof. Chong-En Bai
