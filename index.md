@@ -8,13 +8,33 @@ title: Bingtong Han
 **Undergraduate | Tsinghua University**
 
 
-![My Photo](my-photo.jpg)
-
 ---
 
 ## Self-Introduction
-Hi! I am Bingtong Han from School of Economics and Management, Tsinghua University. My major is Economics and Finance (and perhaps there will be a minor in the future).   
+Hi! I am **Bingtong Han** from School of Economics and Management, Tsinghua University. My major is Economics and Finance (and perhaps there will be a minor in the future).   
 
+
+<div style="text-align:right">
+  <img src="my-photo.jpg" alt="照片" width="150">
+</div>  
+
+
+More About me:  
+- Date of Birth: June 3rd, 2005
+- MBTI: INTJ (former ENTJ)
+- Field of Interest (might not be good at🤦‍♀️): Economics and Business (Finance, Accounting, Management, etc.), Chemistry, Biology, Statistics (just a beginner)
+- A former science student in high school who entered the field of economics and finance by chance
+---
+
+## Educational Background
+School of Economics and Management, Economics and Finance, Tsinghua University　　　　　　　　　　2023.9-now  
+
+
+Related courses:
+- **Economics and Business Related:** Corporate Finance, Intermediate Financial Accounting, Intermediate Microeconomics, Principles of Economics, Principles of Accounting, Alternative Investment (Harvard Business School Certificate)
+- Math Related: Probability and Mathematical Statistics, Elementary Probability Theory, Statistical Inference (Audit), Calculus, Linear Algebra
+- Programming Related: Computer Language and Programming, Insight from Financial Industry
+- Some Other Interesting Courses I took (not all): Organic Chemistry, Physics, Laboratory of Modern Biology, Writing and Communication, Critical Thinking and Moral Reasoning, Research Writing Seminars
 ---
 
 ## Internship Experience
@@ -29,6 +49,18 @@ Hi! I am Bingtong Han from School of Economics and Management, Tsinghua Universi
 ---
 
 ## Research Experience
+- Institute for State-owned Enterprises, Tsinghua University, Research Assistant 　　　　　　　　　　　　　　　　　　　　 　2025.1-now　　
+
+  "Beijing Pilot State-owned Enterprise Policy Evaluation"
+
+
+  Prof. Chong-En Bai, Director Lisha Zhou
+
+
+  * Engaged in in-depth interviews with senior and management levels of enterprises, focusing on policy areas such as human resources and incentives, technological innovation, governance empowerment, and capital operations, to gather primary data and insights
+  * Organized interview results and processed and interpreted survey data to provide empirical support for policy evaluation
+
+
 - Institute for State-owned Enterprises, Tsinghua University, Research Assistant 　　　　　　　　　　　　　　　　　　　　 　2024.7-2024.8　　
 
   "Equity Incentive for State-owned Enterprises" and "Giving Play to the Role of Independent Directors of State-owned Holding Listed Companies"
@@ -40,18 +72,6 @@ Hi! I am Bingtong Han from School of Economics and Management, Tsinghua Universi
   * Collected and sorted out the state-owned enterprise equity incentive related literature, wrote the project literature review  
   * Wrote research reports based on the equity incentive data of state-owned holding listed companies and the interview materials of related enterprises  
   * Collected relevant information of the independent directors of state-owned holding listed companies, wrote research reports and made PPT  
-
-
-- Institute for State-owned Enterprises, Tsinghua University, Research Assistant 　　　　　　　　　　　　　　　　　　　　 　2025.1-now　　
-
-  "Beijing Pilot State-owned Enterprise Policy Evaluation"
-
-
-  Prof. Chong-En Bai, Director Lisha Zhou
-
-
-  * Engaged in in-depth interviews with senior and management levels of enterprises, focusing on policy areas such as human resources and incentives, technological innovation, governance empowerment, and capital operations, to gather primary data and insights
-  * Organized interview results and processed and interpreted survey data to provide empirical support for policy evaluation
 
 
 ---
