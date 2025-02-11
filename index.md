@@ -14,7 +14,7 @@ title: Bingtong Han
 Hi! I am **Bingtong Han** from School of Economics and Management, Tsinghua University. My major is Economics and Finance (and perhaps there will be a minor in the future).   
 
 
-<div style="text-align:right">
+<div style="text-align:left">
   <img src="my-photo.jpg" alt="照片" width="150">
 </div>  
 
