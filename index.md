@@ -86,7 +86,7 @@ Related courses:
 ## Other Experiences
 
 ### Social Work in Tsinghua
-- **School of Economics and Management, Student Union, Overseas Department**, 2023.3-present
+- **School of Economics and Management, Student Union, Overseas Department**, 2024.3-present
   * Responsible for editing the “Business English” column of the Tsinghua SEM Family WeChat official account, leading the team to produce multiple articles, providing practical English learning guidance for students  
   * Holly Jolly Get-Together New Year’s event sharing guest and organizer  
   * Participated in the buddy program for two semesters, helping exchange students adapt to life at Tsinghua  
