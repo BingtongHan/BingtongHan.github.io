@@ -34,7 +34,7 @@ About me:
 
 Related courses:
 - **Economics and Business Related:** Corporate Finance, Intermediate Financial Accounting, Intermediate Microeconomics, Principles of Economics, Principles of Accounting, Alternative Investment (Harvard Business School Certificate), Intermediate Macroeconomics (still taking), Econometrics (still taking), Investments (still taking)
-- Math Related: Probability and Mathematical Statistics, Elementary Probability Theory, Statistical Inference (Audit), Calculus, Linear Algebra, Multivariate Statistical Analysis (still taking), Linear Regression Analysis (still taking)
+- Math and Statistics Related: Probability and Mathematical Statistics, Elementary Probability Theory, Statistical Inference (Audit), Calculus, Linear Algebra, Multivariate Statistical Analysis (still taking), Linear Regression Analysis (still taking)
 - Programming Related: Computer Language and Programming, Insight from Financial Industry
 - Some Other Interesting Courses I Took (not all): Organic Chemistry, Physics, Laboratory of Modern Biology, Writing and Communication, Critical Thinking and Moral Reasoning, Research Writing Seminars
 
