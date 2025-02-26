@@ -11,7 +11,7 @@ title: Bingtong Han
 ---
 
 ## Self-Introduction
-Hi! I am **Bingtong Han** from School of Economics and Management, Tsinghua University. My major is Economics and Finance, and perhaps also with a minor of Statistics.   
+Hi! I am **Bingtong Han** from School of Economics and Management, Tsinghua University. My major is Economics and Finance, and perhaps there will also be a minor of Statistics.   
 
 
 <div style="text-align:left">
