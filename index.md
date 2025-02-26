@@ -11,7 +11,7 @@ title: Bingtong Han
 ---
 
 ## Self-Introduction
-Hi! I am **Bingtong Han** from School of Economics and Management, Tsinghua University. My major is Economics and Finance (and perhaps there will be a minor in the future).   
+Hi! I am **Bingtong Han** from School of Economics and Management, Tsinghua University. My major is Economics and Finance, and perhaps also with a minor of Statistics.   
 
 
 <div style="text-align:left">
@@ -157,8 +157,9 @@ Related courses:
 ---
 
 ## News
+- Now being under the supervision of *Prof. Xiaojie Mao* (Update time: 2025.2)
 - Preparing for my exchange application (Update time: 2025.2)
-- Probably will study and conduct research under the supervision of *Prof. Xiaojie Mao* next (Update time: 2025.2)
+
 
 
 ---
