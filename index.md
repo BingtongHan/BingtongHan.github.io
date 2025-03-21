@@ -11,7 +11,7 @@ title: Bingtong Han
 ---
 
 ## Self-Introduction
-Hi! I am **Bingtong Han** from School of Economics and Management, Tsinghua University, with a major in Economics and Finance, and perhaps with a minor in Statistics.   
+Hi! I am **Bingtong Han** from School of Economics and Management, Tsinghua University, with a major in Economics and Finance and a minor in Statistics.   
 
 
 <div style="text-align:left">
@@ -53,7 +53,7 @@ Related courses:
 ---
 
 ## Research Experience
-- **Institute for State-owned Enterprises, Tsinghua University, Research Assistant**, 2025.1-present　　
+- **Institute for State-owned Enterprises, Tsinghua University, Research Assistant**, 2025.1-2025.3　　
 
   *"Beijing Pilot State-owned Enterprise Policy Evaluation"*  
   *Prof. Chong-En Bai, Director Lisha Zhou*
@@ -157,6 +157,7 @@ Related courses:
 ---
 
 ## News
+- Going to *UC Berkeley* for an exchange next semester (Update time: 2025.3)
 - Now being under the supervision of *Prof. Xiaojie Mao* (Update time: 2025.2)
 - Preparing for my exchange application (Update time: 2025.2)
 
