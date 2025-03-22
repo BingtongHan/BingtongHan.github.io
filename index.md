@@ -77,7 +77,7 @@ Related courses:
 ---
 
 ## Skills
-- Programming: Python, R, C
+- Programming: R, Python, C, STATA(😰)
 - Microsoft (Excel, PowerPoint, etc.)
 - Language: Chinese Mandarin (Proficient), English (Advanced)
 
@@ -158,7 +158,7 @@ Related courses:
 
 ## News
 - Going to *UC Berkeley* for an exchange next semester (Update time: 2025.3)
-- Now being under the supervision of *Prof. Xiaojie Mao* (Update time: 2025.2)
+- Currently being under the supervision of *Prof. Xiaojie Mao* (Update time: 2025.2)
 - Preparing for my exchange application (Update time: 2025.2)
 
 
