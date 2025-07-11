@@ -22,8 +22,8 @@ Hi! I am **Bingtong Han** from School of Economics and Management, Tsinghua Univ
 About me:  
 - Date of Birth: June 3rd, 2005
 - MBTI: INTJ (former ENTJ)
-- Field of Interest (might not be good at🤦‍♀️): Economics and Business (Finance, Accounting, Management, etc.), Chemistry, Biology, Statistics (just a beginner)
-- A former Science student in high school who entered the field of Economics and Finance by chance  
+- Field of Interest: Causal Inference
+- An atypical student in Economics and Management
 
 
 ---
@@ -33,8 +33,11 @@ About me:
 
 
 Related courses:
-- **Economics and Business Related:** Corporate Finance, Intermediate Financial Accounting, Intermediate Microeconomics, Principles of Economics, Principles of Accounting, Alternative Investment (Harvard Business School Certificate), Intermediate Macroeconomics (still taking), Econometrics (still taking), Investments (still taking)
-- **Statistics and Math Related:** Probability and Mathematical Statistics, Elementary Probability Theory, Statistical Inference (Audit), Calculus, Linear Algebra, Multivariate Statistical Analysis (still taking), Linear Regression Analysis (still taking)
+- **Economics and Business Related:**
+  - Economics: Intermediate Microeconomics, Intermediate Macroeconomics, Econometrics, Principles of Economics
+  - Finance: Corporate Finance, Investments, Alternative Investment (Harvard Business School Certificate)
+  - Accounting:  Intermediate Financial Accounting,  Principles of Accounting
+- **Statistics and Math Related:** Multivariate Statistical Analysis, Linear Regression Analysis, Probability and Mathematical Statistics, Elementary Probability Theory, Statistical Inference (Audit), Calculus, Linear Algebra
 - Programming Related: Computer Language and Programming, Insight from Financial Industry
 - Some Other Interesting Courses I Took (not all): Organic Chemistry, Physics, Laboratory of Modern Biology, Writing and Communication, Critical Thinking and Moral Reasoning, Research Writing Seminars
 
@@ -42,9 +45,13 @@ Related courses:
 ---
 
 ## Internship Experience
-- **Boston Consulting Group, Part-Time Assistant**, 2024.12-present
+- **Guolian Minsheng Securities Co.,Ltd. , Risk Management Department**, 2025.7-present
+  * Assist the team in constructing the credit rating model, including data query, data cleaning and variable derivation
+  * Participate in the model validation process, evaluate model performance and propose suggestions
+  * Write research report to evaluate operational risk and debt repayment risk of the industries
 
-
+  
+- **Boston Consulting Group, Part-Time Assistant**, 2024.12-2025.5
   * Responsible for compiling project meeting minutes, accurately capturing key information from meetings to ensure the project team has a consistent understanding and efficient execution of the audio product e-commerce market expansion strategy  
   * Organized and analyzed vendor due diligence reports, providing the team with in-depth insights into the market position of the client, dynamics of competitors, and potential market opportunities  
   * Participated in expert interviews and physical store visits, gathering opinions and suggestions from industry experts and front-line sales personnel on the promotion of audio products in the e-commerce market, analyzed potential growth points, and provided empirical support for project strategy formulation  
@@ -53,6 +60,7 @@ Related courses:
 ---
 
 ## Research Experience
+- **More to be updated**
 - **Institute for State-owned Enterprises, Tsinghua University, Research Assistant**, 2025.1-2025.3　　
 
   *"Beijing Pilot State-owned Enterprise Policy Evaluation"*  
@@ -77,7 +85,7 @@ Related courses:
 ---
 
 ## Skills
-- Programming: R, Python, C, STATA(😰)
+- Programming: R, Python, C, STATA, SQL
 - Microsoft (Excel, PowerPoint, etc.)
 - Language: Chinese Mandarin (Proficient), English (Advanced)
 
@@ -129,7 +137,7 @@ Related courses:
 ---
 
 ## Reports/Theses/Projects  
-(mostly not that formal🤔)  
+(from course, competition, etc.)
 
 ###  Reports
 - 华为公司估值分析报告
@@ -137,6 +145,8 @@ Related courses:
 - Financial Analysis of Chinese Electric Appliances Industry: Hisense, Skyworth, TCL
 
 ### Theses
+- 基于Lending Club数据的P2P借贷违约风险评估研究
+- 北京市野生动物肇事致农作物损失情况分析
 - 零实施与数次实施——中印药品专利强制许可实施对比及原因（获清华大学“讲好科学的故事”科普大赛最佳深度奖）
 - Study on Ethics in Users’ Information and Data Collection of Social Media Enterprises
 - 雪糕真的是“刺客”吗？ (my Principles of Economics course thesis, just for fun🙂)
@@ -148,18 +158,15 @@ Related courses:
 ---
 
 ## More about Myself
-- **I am a foodie.** Enjoying food is an indispensable part of my happiness. I can also cook but don't know how to make desserts.
-- **I like sports,** for example, long-distance running, tennis, swimming, and a lot more. I taught myself to do strength training in the latter half of 2024.
-- **I am not that good at math, but it is manageable.** Although I studied Science in high school, I am not that talented in Mathematics. However, if I choose to apply for Master or even PhD, math is strongly required to prove that I am intelligent. Overall, I prefer to coexist with math because I am worse at Arts (Philosophy, Politics, etc.), although I am interested in them (and they are also a must to understand Economics).
-- **Venture Capital (VC) is by far the favorite career I can think of in financial industry.** This is probably the most important reason that I joined SEM, although I didn't realize it until my freshman year. I am interested in looking into an industry and picking out the company that I think is the most promising. Unfortunately, the bar is very high for Venture Capital so hopefully I can take some VC internships in the future. However, one thing must be stated here is that people's mind can change.
+- **To be updated.** I haven't decided what to write here.
+
 
 
 ---
 
 ## News
 - Going to *UC Berkeley* for an exchange next semester (Update time: 2025.3)
-- Currently being under the supervision of *Prof. Xiaojie Mao* (Update time: 2025.2)
-- Preparing for my exchange application (Update time: 2025.2)
+- Currently being supervised by *Prof. Xiaojie Mao* (Update time: 2025.2)
 
 
 
