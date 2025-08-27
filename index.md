@@ -29,8 +29,8 @@ About me:
 ---
 
 ## Educational Background
-**Economics, University of California, Berkeley**, 2025.8-present  
-**School of Economics and Management (SEM), Economics and Finance, Tsinghua University**, 2023.9-present  
+**University of California, Berkeley, Economics**, 2025.8-present  
+**Tsinghua University, School of Economics and Management (SEM), Economics and Finance**, 2023.9-present  
 
 
 Related courses:
