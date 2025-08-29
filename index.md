@@ -166,8 +166,7 @@ Related courses:
 ---
 
 ## News
-- Going to *UC Berkeley* for an exchange next semester (Update time: 2025.3)
-- Currently being supervised by *Prof. Xiaojie Mao* (Update time: 2025.2)
+- To be updated
 
 
 
