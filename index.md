@@ -37,7 +37,7 @@ Related courses:
   - Finance: Corporate Finance, Investments, Alternative Investment (Harvard Business School Certificate)
   - Accounting:  Intermediate Financial Accounting,  Principles of Accounting
 - **Statistics and Math Related:** Multivariate Statistical Analysis, Linear Regression Analysis, Probability and Mathematical Statistics, Elementary Probability Theory, Statistical Inference (Audit), Calculus, Linear Algebra
-- Programming Related: Computer Language and Programming, Insight from Financial Industry
+- Programming Related: Computer Language and Programming
 - Some Other Interesting Courses I Took (not all): Organic Chemistry, Physics, Laboratory of Modern Biology, Writing and Communication, Critical Thinking and Moral Reasoning, Research Writing Seminars
 
 
