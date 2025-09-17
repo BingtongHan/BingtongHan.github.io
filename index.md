@@ -44,7 +44,7 @@ Related courses:
 ---
 
 ## Internship Experience
-- **Guolian Minsheng Securities Co.,Ltd. , Risk Management Department**, 2025.7-present
+- **Guolian Minsheng Securities Co.,Ltd. , Risk Management Department**, 2025.7-2025.8
   * Assist the team in constructing the credit rating model, including data query, data cleaning and variable derivation
   * Participate in the model validation process, evaluate model performance and propose suggestions
   * Write research report to evaluate operational risk and debt repayment risk of the industries
