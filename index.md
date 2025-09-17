@@ -22,7 +22,6 @@ Hi! I am **Bingtong Han** from School of Economics and Management, Tsinghua Univ
 About me:  
 - Date of Birth: June 3rd, 2005
 - MBTI: INTJ (former ENTJ)
-- Field of Interest: Causal Inference
 - An atypical student in Economics and Management
 
 
