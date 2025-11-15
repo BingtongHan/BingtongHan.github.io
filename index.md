@@ -33,10 +33,10 @@ About me:
 
 Related courses:
 - **Economics and Business Related:**
-  - Economics: Intermediate Microeconomics, Intermediate Macroeconomics, Econometrics, Principles of Economics
-  - Finance: Corporate Finance, Investments, Alternative Investment (Harvard Business School Certificate)
+  - Economics: Econometrics (PhD, Time Series), Intermediate Microeconomics, Intermediate Macroeconomics, Econometrics, Principles of Economics, Topics in Economic Research
+  - Finance: Corporate Finance, Investments, Financial Economics, Alternative Investment (Harvard Business School Certificate)
   - Accounting:  Intermediate Financial Accounting,  Principles of Accounting
-- **Statistics and Math Related:** Multivariate Statistical Analysis, Linear Regression Analysis, Probability and Mathematical Statistics, Elementary Probability Theory, Statistical Inference (Audit), Calculus, Linear Algebra
+- **Statistics and Math Related:** Multivariate Statistical Analysis, Linear Regression Analysis, Probability and Mathematical Statistics, Elementary Probability Theory, Statistical Inference (Audit), Abstract Linear Algebra, Calculus, Linear Algebra
 - Programming Related: Computer Language and Programming
 - Some Other Interesting Courses I Took (not all): Organic Chemistry, Physics, Laboratory of Modern Biology, Writing and Communication, Critical Thinking and Moral Reasoning, Research Writing Seminars
 
@@ -60,6 +60,16 @@ Related courses:
 
 ## Research Experience
 - **More to be updated**
+  
+- **INFORMS Railway Applicarion Section 2025 Problem Solving Competition, Finalist**, 2025.6-2025.10
+  
+  *INFORMS Annual Meeting, Atlanta, GA*
+  
+  * Built statistical and machine-learning models to predict wheel failure risk based on real-world railway maintenance and sensor data
+  * Authored a technical paper and developed reproducible code
+  * Work was selected as a finalist and invited for oral presentation at the INFORMS Annual Meeting
+
+
 - **Institute for State-owned Enterprises, Tsinghua University, Research Assistant**, 2025.1-2025.3　　
 
   *"Beijing Pilot State-owned Enterprise Policy Evaluation"*  
@@ -99,7 +109,7 @@ Related courses:
   * Participated in the buddy program for two semesters, helping exchange students adapt to life at Tsinghua  
   * Organizer and host of the Speaking Buddy Program, strengthening communication between exchange students and domestic students  
 
-- **School of Economics and Management, Class 36, Study Committee Member**, 2024.9-present
+- **School of Economics and Management, Class 36, Study Committee Member**, 2024.9-2025.10
 
 ### Social Practice Activities
 - **Tsinghua University "RONG TONG WAN XI, ZHI HUI JINZHAI" social practice**, 2024.7  
@@ -144,6 +154,8 @@ Related courses:
 - Financial Analysis of Chinese Electric Appliances Industry: Hisense, Skyworth, TCL
 
 ### Theses
+- Predictive Maintenance of Railcar Wheels under Class Imbalance: A Case Study with XGBoost
+  *Submitted to INFOMRS RAS, presented at INFORMS Annual Meeting, Atlanta, GA, 2025*
 - 基于Lending Club数据的P2P借贷违约风险评估研究
 - 北京市野生动物肇事致农作物损失情况分析
 - 零实施与数次实施——中印药品专利强制许可实施对比及原因（获清华大学“讲好科学的故事”科普大赛最佳深度奖）
