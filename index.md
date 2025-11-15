@@ -155,6 +155,7 @@ Related courses:
 
 ### Theses
 - Predictive Maintenance of Railcar Wheels under Class Imbalance: A Case Study with XGBoost
+  
   *Submitted to INFOMRS RAS, presented at INFORMS Annual Meeting, Atlanta, GA, 2025*
 - 基于Lending Club数据的P2P借贷违约风险评估研究
 - 北京市野生动物肇事致农作物损失情况分析
